@@ -1,0 +1,26 @@
+p{
+    text-align: left;
+
+}
+li{
+    text-align: left;
+    font-weight: bold ;
+    padding-left: 0;
+    padding-top: 16px;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+body{
+    background-color: #1b1b32;
+}
+div{
+    color: whitesmoke;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.last{
+    text-align: center;
+}
